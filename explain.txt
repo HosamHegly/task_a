@@ -1,0 +1,6 @@
+subtask 4
+file : shows basic info such is if its an excutable library , shared , which platform ....
+nm: shows functions used by the library
+ldd: shows the libraries that our excutable uses
+strace:shows all the systemcalls made by our excutable
+ltrace: shows our library usage in the excutable
